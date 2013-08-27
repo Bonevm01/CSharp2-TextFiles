@@ -1,0 +1,7 @@
+2 - file name along with its full
+4 - reads its contents and prints it on
+6 - System.IO.File.ReadAllText(�).
+8 - user-friendly error messages.
+10 - Write a program that reads a text file containing a square matrix of numbers
+12 - The first line in the input file contains the size of matrix N. Each of the next N
+14 - in a separate text file. Example:

@@ -1,0 +1,4 @@
+advance ---> 6 times.
+holidays ---> 6 times.
+salary ---> 4 times.
+bonus ---> 2 times.

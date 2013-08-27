@@ -1,0 +1,14 @@
+1 - Write a program that enters
+2 - file name along with its full
+3 - file path (e.g. C:\WINDOWS\win.ini),
+4 - reads its contents and prints it on
+5 - the console. Find in MSDN how to use
+6 - System.IO.File.ReadAllText(�).
+7 - Be sure to catch all possible exceptions and print
+8 - user-friendly error messages.
+9 - 
+10 - Write a program that reads a text file containing a square matrix of numbers
+11 - and finds in the matrix an area of size 2 x 2 with a maximal sum of its elements.
+12 - The first line in the input file contains the size of matrix N. Each of the next N
+13 - lines contain N numbers separated by space. The output should be a single number
+14 - in a separate text file. Example:
